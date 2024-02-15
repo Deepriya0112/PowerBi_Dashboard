@@ -1,2 +1,2 @@
 # PowerBi_Dashboard
-Cafe Sale Dashboard
+Cafe Sales Dashboard
